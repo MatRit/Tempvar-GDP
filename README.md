@@ -1,5 +1,9 @@
 # Tempvar-GDP
-Code and data related to manuscript "Day–to–day temperature variability is ineffective for economic growth and unsuitable for climate change projections"
+Code and data related to the following manuscript (under review):
+
+Title: "Day–to–day temperature variability is ineffective for economic growth and unsuitable for climate change projections"
+Authors: Frank Wechsung, Gary W. Wall, Peter Hoffmann, Matthias Ritter
+Email corresponding author: wechsung@pik-potsdam.de
 
 
 /* DTAS data file: T_econ.dta */
